@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1019249905130",
+    "project_id": "fir-auth-2fc7a",
+    "storage_bucket": "fir-auth-2fc7a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019249905130:android:f4d6d0af91fe6332543693",
+        "android_client_info": {
+          "package_name": "com.example.fingerprintauthenticationandroid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkRrNt-Ik0NTXhiNAAqT8Iwe3-yQveCmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
